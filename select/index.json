@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "双葉",
+  "base_artist": "aimyon",
+  "createdAt": "2026-03-05T15:59:08.230675Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "百色リメイン - 双葉&香子ver.",
+      "artist": "Starlight Kuku Gumi",
+      "has_synced": true,
+      "path": "select/01_百色リメイン_-_双葉&香子ver._Starlight_Kuku_Gumi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "百色リメイン - 双葉&香子ver.",
+      "artist": "スタァライト九九組",
+      "has_synced": true,
+      "path": "select/02_百色リメイン_-_双葉&香子ver._スタァライト九九組.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "双葉",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/03_双葉_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "双葉 - Futaba",
+      "artist": "aimyon",
+      "has_synced": true,
+      "path": "select/04_双葉_-_Futaba_aimyon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "双葉",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_01_双葉_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "双葉",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_02_双葉_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "双葉",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_03_双葉_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "双葉",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_04_双葉_あいみょん.txt"
+    }
+  ]
+}
